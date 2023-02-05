@@ -6,3 +6,7 @@ Hi, I'm Beza Amsalu, a student at Columbia University's School of Engineering an
 - 💬 Ask me about: Soccer 
 - 📫 How to reach me: beza.amsalu@columbia.edu
 - ⚡ Fun fact: I'm a big Machester United fan!
+
+Languages
+
+[Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
