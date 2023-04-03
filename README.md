@@ -1,6 +1,6 @@
 ### About Me 👋
 
-Hi, I'm Beza Amsalu, a student at Columbia University's School of Engineering and Applied Science majoring in Computer Science and minoring in Entrepreneurship. 
+Hi, I'm Beza Amsalu, a student at Columbia University studing Computer Science and Entrepreneurship. 
 
 - 📫 How to reach me: beza.amsalu@columbia.edu
 
