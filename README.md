@@ -1,6 +1,6 @@
 ### About Me 👋
 
-Hi, I'm Beza Amsalu, a student at Columbia University studing Computer Science and Entrepreneurship. 
+Hi, I'm Beza Amsalu, a student at Columbia University studing Computer Science and Entrepreneurship. I've previously interned at Bloomberg and Microsoft as a Software Engineer.
 
 - 📫 How to reach me: beza.amsalu@columbia.edu
 
